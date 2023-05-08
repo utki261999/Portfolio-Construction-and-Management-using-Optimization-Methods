@@ -1,6 +1,6 @@
 # Portfolio-Construction-and-Management-using-Optimization-Methods
-Estimating the  expected returns and covariance matrix for different portfolios using Mean Variance Optimization (MVO) and Hierarchical Risk Parity (HRP) methods with both a threshold rebalancing and fixed-time rebalancing.
-The paper walks through the implementation process of the Mean-Variance optimization
+
+This project walks through the implementation process of the Mean-Variance optimization
 (MVO) method as well as the Hierarchical Risk Parity (HRP) optimization method on a
 selected dataset consisting of 10 indices with high and low volatilities. The process includes
 the estimation of expected return and covariance matrix, optimization methods aiming at
